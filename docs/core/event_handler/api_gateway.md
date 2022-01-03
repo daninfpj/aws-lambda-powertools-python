@@ -3,7 +3,7 @@ title: API Gateway
 description: Core utility
 ---
 
-Event handler for Amazon API Gateway REST/HTTP APIs and Application Loader Balancer (ALB).
+Event handler for Amazon API Gateway REST/HTTP APIs and Application Load Balancer (ALB).
 
 ### Key Features
 
